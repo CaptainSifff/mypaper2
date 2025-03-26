@@ -1,5 +1,5 @@
 # mypaper2
 
 ## Introduction
-My second attempt at a paper.
+My second attempt at a paper. The first one was mediocre...
 
