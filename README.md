@@ -11,7 +11,8 @@ My second attempt at a paper. The first one was mediocre...
 
 ## Bibliography
 
-- Book1
-- Book2
+- Book 1
+- Book 2
 - Book 3
-
+- Book 4
+- Book 5
