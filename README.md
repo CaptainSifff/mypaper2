@@ -10,6 +10,8 @@ My second attempt at a paper. The first one was mediocre...
 ## Conclusion
 
 ## Bibliography
-- Book1
 
+- Book1
+- Book2
+- Book 3
 
