@@ -1,4 +1,4 @@
-# mypaper2
+# An important paper on software carpentreology
 
 ## Introduction
 My second attempt at a paper. The first one was mediocre...
