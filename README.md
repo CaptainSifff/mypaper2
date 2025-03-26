@@ -1,4 +1,4 @@
-# My Paper on researcheology
+# An important paper on researcheology
 
 ## Introduction
 My second attempt at a paper. The first one was mediocre...
