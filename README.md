@@ -1,4 +1,4 @@
-# mypaper2
+# My Paper on researcheology
 
 ## Introduction
 My second attempt at a paper. The first one was mediocre...
