@@ -14,5 +14,5 @@ My second attempt at a paper. The first one was mediocre...
 - Book 1
 - Book 2
 - Book 3
-- Book 4
+- Better Book 1
 - even better paper1!
